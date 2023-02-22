@@ -1,3 +1,3 @@
 ## Diagram
 
-![alt text](./doc/diagram.jpg)
+![alt text](./doc/diagram.svg)
